@@ -17,6 +17,7 @@ The unemployment rate in Nigeria is currently pegged at 23. 1 % (NBS), the highe
 
 
 Proposed Solution
+
 Create a platform that connects budding entrepreneurs to established entrepreneurs that can borrow them equipment to use while they both benefits. Also, Nigeria talents are able to showcase their projects to a larger audience, thus placing Nigeria has a hub to talent search.
 
 Proposed Stack
